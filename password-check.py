@@ -1,6 +1,6 @@
 pass_word = "Govind@123"
-
-while True:
+Secret = True
+while pass_word:
     password = input("Enter a password: ")
     if password == pass_word:
         print("Correct")
