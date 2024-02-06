@@ -1,2 +1,2 @@
-name = input("Enter Name: ")
+name = input("Enter Number: ")
 print(name)
