@@ -9,4 +9,3 @@ if (a > b):
 else:
   print("b is greater", b)
 functions(a , b)
-
